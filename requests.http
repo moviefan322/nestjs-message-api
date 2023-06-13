@@ -6,8 +6,8 @@ POST http://localhost:3000/messages
 content-type: application/json
 
 {
-  "content": "Poop on my butt"
+  "content": "Poop on my moms butt"
 }
 
 ### Get one message
-GET http://localhost:3000/messages/141
+GET http://localhost:3000/messages/738
